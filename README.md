@@ -1,2 +1,2 @@
 # machine-learning
-Machine Learning projects
+Grad-Level Machine Learning course assignment solutions.
