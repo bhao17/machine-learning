@@ -1,2 +1,2 @@
-# machine-learning
-Senior Machine Learning course assignment solutions.
+# Machine-Learning
+Machine Learning projects.
